@@ -3,7 +3,7 @@ package com.relax.binary.search;
 /**
  * @Author relax
  * @Date 2024/8/20 14:57
- * @Description TODO
+ * @Description Binary Search
  * @Version 1.0
  **/
 public class Question_704 {
